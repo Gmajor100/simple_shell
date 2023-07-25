@@ -1,5 +1,3 @@
-lists1.c code
-
 #include "shell.h"
 
 /**
